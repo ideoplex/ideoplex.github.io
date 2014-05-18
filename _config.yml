@@ -1,0 +1,14 @@
+# Site settings
+title: Getting Started with Jekyll
+email: 
+description: "Sample Jekyll blog hosted on GitHub pages"
+baseurl: ""
+url: http://ideoplex.github.io
+
+# Build settings
+markdown:
+ kramdown
+kramdown:
+ input: GFM
+permalink: pretty
+
