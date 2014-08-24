@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Platform Wins"
+date: 2014-08-24 18:12:02
 tags: jekyll
 ---
 Hmmm. You would think that I would have learned my lesson when I picked [TextPattern](http://textpattern.com) over [WordPress](http://wordpress.com).
